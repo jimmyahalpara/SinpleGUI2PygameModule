@@ -27,6 +27,7 @@ setup(name='Pytable',
       description='module for making tables in python',
       long_description='module for making tables in python',
       url='https://github.com/jimmyahalpara/Pytable',
+      download_url='https://github.com/jimmyahalpara/Pytable/archive/1.0.0.tar.gz'
       author='Jimmy Kumar Ahalpara',
       author_email='jimmyahalpara123@gmail.com',
       license='MIT',
