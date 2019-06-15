@@ -11,3 +11,5 @@ tips - if you use this module, you can run you game on python directly which mak
 
 created by jimmy kumar ahalpara on 4-7-2018,
 email: jimmyahalpara123@gmail.com
+
+**There may be not enough color to RBG values defined in this module. You can add more in the dictionary present in source code. Some colors will be present there** 
