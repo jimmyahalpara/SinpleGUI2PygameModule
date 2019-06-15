@@ -1,7 +1,15 @@
-# Pytable
-Module to create table for python
-we come across many times when, we just print the output directly. In that case this module can be useful. You can nicely present your input and output in form of a table for comparision.
-So, you can get started with this module. Its preety easy and user friendly. you can understand the working of the module through help function on python.
-And one more thing, this module can not be used to manage data but can be used as to present the data.
-developed by jimmy kumar ahalpara on 6-7-2018
-thank you
+# simplegui2pygamemodule
+this module can be used to run simplegui files on python using pygame
+step wise procedure:
+
+
+1. copy and past your simplegui program in python IDLE
+2. replace import simplegui with import simplegui2pygamemodule as simplegui
+3. and run the code
+warning - this module sometimes is causing problems with few games and another thing, use only time based movement that is using timer() in simplegui not directly update the position in draw methode else you game movement will increase sharply because execution speed of pygame is very high.
+tips - if you use this module, you can run you game on python directly which makes it easy for packging in exe also by using some third party modules such as py2exe, pyinstaller, cx_freeze etc.
+
+created by jimmy kumar ahalpara on 4-7-2018,
+email: jimmyahalpara123@gmail.com
+
+**There may be not enough color to RBG values defined in this module. You can add more in the dictionary present in source code. Some colors will be present there** 
